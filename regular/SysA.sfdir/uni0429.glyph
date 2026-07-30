@@ -1,0 +1,39 @@
+StartChar: uni0429
+Encoding: 1065 1065 119
+Width: 13
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+10 2 m 1
+ 12 2 l 1
+ 12 -2 l 1
+ 10 -2 l 1
+ 10 2 l 1
+6 2 m 1
+ 8 2 l 1
+ 8 0 l 1
+ 6 0 l 1
+ 6 2 l 1
+2 2 m 1
+ 4 2 l 1
+ 4 0 l 1
+ 2 0 l 1
+ 2 2 l 1
+8 10 m 1
+ 10 10 l 1
+ 10 0 l 1
+ 8 0 l 1
+ 8 10 l 1
+4 10 m 1
+ 6 10 l 1
+ 6 0 l 1
+ 4 0 l 1
+ 4 10 l 1
+0 10 m 1
+ 2 10 l 1
+ 2 0 l 1
+ 0 0 l 1
+ 0 10 l 1
+EndSplineSet
+EndChar
