@@ -1,4 +1,4 @@
-# SysA
+# SysA font
 SysA is a brutal but high-readable font, which designed for low resolution systems without antialiasing. It contains basic sets of Latin and Cyrillic characters, also numbers and some symbols too.
 
 <img width="1234" height="290" alt="sysa1" src="https://github.com/user-attachments/assets/b8fb2c2c-c027-48b3-873f-bca15b01dc99" />
