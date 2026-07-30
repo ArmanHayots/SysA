@@ -1,5 +1,5 @@
-StartChar: A
-Encoding: 65 65 34
+StartChar: F
+Encoding: 70 70 39
 Width: 9
 Flags: HW
 LayerCount: 2
@@ -10,20 +10,15 @@ SplineSet
  6 4 l 1
  2 4 l 1
  2 6 l 1
-6 10 m 1
- 8 10 l 1
- 8 0 l 1
- 6 0 l 1
- 6 10 l 1
 2 10 m 1
- 6 10 l 1
- 6 8 l 1
+ 8 10 l 1
+ 8 8 l 1
  2 8 l 1
  2 10 l 1
-0 0 m 1
- 0 10 l 1
+0 10 m 1
  2 10 l 1
  2 0 l 1
  0 0 l 1
+ 0 10 l 1
 EndSplineSet
 EndChar

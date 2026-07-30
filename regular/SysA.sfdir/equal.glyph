@@ -1,0 +1,19 @@
+StartChar: equal
+Encoding: 61 61 31
+Width: 6
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 5 m 1
+ 0 7 l 1
+ 5 7 l 1
+ 5 5 l 1
+ 0 5 l 1
+0 2 m 1
+ 0 4 l 1
+ 5 4 l 1
+ 5 2 l 1
+ 0 2 l 1
+EndSplineSet
+EndChar

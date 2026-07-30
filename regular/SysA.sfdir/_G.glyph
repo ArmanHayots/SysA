@@ -1,0 +1,39 @@
+StartChar: G
+Encoding: 71 71 40
+Width: 10
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+8 5 m 1
+ 8 3 l 1
+ 5 3 l 1
+ 5 5 l 1
+ 8 5 l 1
+7 8 m 1
+ 9 8 l 1
+ 9 6 l 1
+ 7 6 l 1
+ 7 8 l 1
+2 10 m 1
+ 9 10 l 1
+ 9 8 l 1
+ 2 8 l 1
+ 2 10 l 1
+6 4 m 1
+ 8 4 l 1
+ 8 2 l 1
+ 6 2 l 1
+ 6 4 l 1
+2 2 m 1
+ 8 2 l 1
+ 8 0 l 1
+ 2 0 l 1
+ 2 2 l 1
+0 10 m 1
+ 2 10 l 1
+ 2 0 l 1
+ 0 0 l 1
+ 0 10 l 1
+EndSplineSet
+EndChar

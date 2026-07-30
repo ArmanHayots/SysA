@@ -1,0 +1,14 @@
+StartChar: comma
+Encoding: 44 44 14
+Width: 3
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 2 m 1
+ 2 2 l 1
+ 2 -2 l 1
+ 0 -2 l 1
+ 0 2 l 1
+EndSplineSet
+EndChar
