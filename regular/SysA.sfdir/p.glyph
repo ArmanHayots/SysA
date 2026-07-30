@@ -1,0 +1,29 @@
+StartChar: p
+Encoding: 112 112 82
+Width: 7
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2 4 m 1
+ 4 4 l 1
+ 4 2 l 1
+ 2 2 l 1
+ 2 4 l 1
+2 8 m 1
+ 4 8 l 1
+ 4 6 l 1
+ 2 6 l 1
+ 2 8 l 1
+4 8 m 1
+ 6 8 l 1
+ 6 2 l 1
+ 4 2 l 1
+ 4 8 l 1
+0 8 m 1
+ 2 8 l 1
+ 2 0 l 1
+ 0 0 l 1
+ 0 8 l 1
+EndSplineSet
+EndChar

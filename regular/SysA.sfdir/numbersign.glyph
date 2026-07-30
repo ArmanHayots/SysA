@@ -1,0 +1,29 @@
+StartChar: numbersign
+Encoding: 35 35 5
+Width: 11
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 6 m 1
+ 0 8 l 1
+ 10 8 l 1
+ 10 6 l 1
+ 0 6 l 1
+0 2 m 1
+ 0 4 l 1
+ 10 4 l 1
+ 10 2 l 1
+ 0 2 l 1
+6 0 m 1
+ 6 10 l 1
+ 8 10 l 1
+ 8 0 l 1
+ 6 0 l 1
+2 0 m 1
+ 2 10 l 1
+ 4 10 l 1
+ 4 0 l 1
+ 2 0 l 1
+EndSplineSet
+EndChar
